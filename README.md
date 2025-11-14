@@ -88,11 +88,7 @@ DB_PORT=5432
 node index.js
 
 
-or
-
-npm start
-
-
 Now open the app in your browser:
 
+http://localhost:3000
 http://localhost:3000
