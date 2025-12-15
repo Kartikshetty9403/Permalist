@@ -1,4 +1,4 @@
-📝 Permalist — A Modern To-Do List Web App
+#📝 Permalist — A Modern To-Do List Web App
 
 Permalist is a clean, fast, and database-driven To-Do application built using Node.js, Express, EJS, and PostgreSQL.
 It lets users create, edit, and delete checklist items with a smooth and minimal interface.
@@ -90,5 +90,4 @@ node index.js
 
 Now open the app in your browser:
 
-http://localhost:3000
 http://localhost:3000
